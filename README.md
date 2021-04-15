@@ -9,10 +9,12 @@
 ![HTML](https://img.shields.io/badge/HTML-competent-orange)
 ![CSS](https://img.shields.io/badge/CSS-competent-orange)
 ![XML](https://img.shields.io/badge/XML-competent-orange)
+![Haskell](https://img.shields.io/badge/Haskell-competent-orange)
 ![Bashscript](https://img.shields.io/badge/Bashscript-beginner-yellow)
 
 ## → My Technologies
 ![Git](https://img.shields.io/badge/Git-profficient-blue)
+![Geogebra](https://img.shields.io/badge/Geogebra-profficient-blue)
 ![Linux](https://img.shields.io/badge/Linux-competent-orange)
 ![Firebase](https://img.shields.io/badge/Firebase-competent-orange)
 <!--
