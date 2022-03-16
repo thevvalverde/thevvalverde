@@ -1,13 +1,17 @@
 ### Hi there, my name is Felipe!
 - 😄 Pronouns: He/Him
+- 💯 Currently living in Porto, Portugal
+- 📖 Last year BCS student
 
 ## → My Programming Languages
 ![Java](https://img.shields.io/badge/Java-profficient-blue)
 ![C](https://img.shields.io/badge/C-profficient-blue)
-![Git](https://img.shields.io/badge/Git-profficient-blue)
+![C++](https://img.shields.io/badge/C++-profficient-blue)
+![HTML](https://img.shields.io/badge/HTML-profficient-blue)
+![CSS](https://img.shields.io/badge/CSS-profficient-blue)
+![JS](https://img.shields.io/badge/JS-profficient-blue)
 ![SQL](https://img.shields.io/badge/SQL-competent-orange)
-![HTML](https://img.shields.io/badge/HTML-competent-orange)
-![CSS](https://img.shields.io/badge/CSS-competent-orange)
+![Python](https://img.shields.io/badge/Python-competent-orange)
 ![XML](https://img.shields.io/badge/XML-competent-orange)
 ![Haskell](https://img.shields.io/badge/Haskell-competent-orange)
 ![Bashscript](https://img.shields.io/badge/Bashscript-beginner-yellow)
@@ -15,7 +19,8 @@
 ## → My Technologies
 ![Git](https://img.shields.io/badge/Git-profficient-blue)
 ![Geogebra](https://img.shields.io/badge/Geogebra-profficient-blue)
-![Linux](https://img.shields.io/badge/Linux-competent-orange)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-profficient-blue)
+![Linux](https://img.shields.io/badge/Linux-profficient-blue)
 ![Firebase](https://img.shields.io/badge/Firebase-competent-orange)
 <!--
 **thevvalverde/thevvalverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
