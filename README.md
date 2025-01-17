@@ -1,9 +1,9 @@
 ### Hi there, my name is Felipe!
 - 😄 Pronouns: He/Him
-- Lived and studied at Porto, Portugal
+- ⚡ Lived and studied at Porto, Portugal
 - 💯 Currently living in Belo Horizonte, Brazil
 - 📖 Full-stack Django/Python developer
-- Currently working at a Data Science and Analytics MbA at USP
+- 🔭 Currently working at a Data Science and Analytics MbA at USP
 
 ## → My Skills
 ![Django](https://img.shields.io/badge/Django-profficient-blue)
