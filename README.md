@@ -11,7 +11,7 @@
 ![HTML](https://img.shields.io/badge/HTML-profficient-blue)
 ![CSS](https://img.shields.io/badge/CSS-profficient-blue)
 ![JS](https://img.shields.io/badge/JS-profficient-blue)
-![SQL](https://img.shields.io/badge/SQL-competent-orange)
+![SQL](https://img.shields.io/badge/SQL-profficient-blue)
 ![Java](https://img.shields.io/badge/Java-competent-orange)
 ![C](https://img.shields.io/badge/C-competent-orange)
 ![C++](https://img.shields.io/badge/C++-competent-orange)
